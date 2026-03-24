@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Cover-Emoji-A.png" alt="Cover Emoji A" width="100%" style="border-radius: 12px;" />
+  <img src="./Cover-Emoji-B.png" alt="Cover Emoji B" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hi there, I'm David! 👋</h1>
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/shihao-david-zhou/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px;" />
   </a>
-  (づ｡◕‿‿◕｡)づ
+  
   <a href="mailto:zhou.shih@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="border-radius: 12px;" />
   </a>
@@ -60,11 +60,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oam5hMXhyZG0xeDVjdnB6cDJidGJ1Y3g0dzFscWozcTF6b3JubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="110" alt="David says hi" style="border-radius: 12px;" />
 </p>
-
+<p align="center">
+(づ｡◕‿‿◕｡)づ
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A960FF&vCenter=true&width=400&lines=%22Stay+hungry%2C+stay+foolish......%22" alt="Typing Quote" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
-  <img src="./Cover-Emoji-B.png" alt="Cover Emoji B" width="100%" style="border-radius: 12px;" />
 </p>
